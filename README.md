@@ -1,37 +1,52 @@
-<h1> Hello Everyone <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+# Hey there! 👋 I'm Kiribalan
+
+**DevOps Engineer | Cloud & Infrastructure | Full-Stack Developer**
+
+Building, automating, and maintaining systems — from application code to production infrastructure.
+
+## 🚀 About Me
+
+- 💻 DevOps Engineer working on cloud infrastructure, deployment automation, and platform engineering.
+- ☁️ Hands-on experience with Microsoft Azure, Kubernetes, Docker, and CI/CD pipelines.
+- ⚙️ Passionate about infrastructure automation, system reliability, and developer experience.
+- 🛠️ Full-stack development background with experience in Flutter and application development.
+- 🌱 Continuously exploring cloud-native technologies, infrastructure orchestration, and modern software architecture.
+- 🤝 Always open to interesting projects, technical discussions, and collaboration.
+
+## 🧰 Tech Stack
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,ansible,linux,bash,powershell,git,github" alt="Cloud and DevOps tools" />
 </p>
 
+### Development
 
-<div size='20px'> Hi! My name is Kiribalan Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,cs,dotnet,angular,typescript,javascript,html,css" alt="Development technologies" />
+</p>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+### Databases & Tools
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  
-- 🌱 I’m currently learning flutter
-  
-- 👯 I’m looking to collaborate on Projects
-  
-- 💬 Ask me about dart, flutter, app development.
-  
-- ⚡ I'm a Computer Science student at VCET   
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,vscode,postman" alt="Databases and tools" />
+</p>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+## 🔭 Areas of Interest
 
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+- Cloud-native infrastructure and Kubernetes.
+- CI/CD engineering and deployment automation.
+- Infrastructure as Code and configuration management.
+- Distributed systems, networking, and system architecture.
+- Building reliable and scalable applications.
 
+## 🤝 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiribalan-shanmugam-24645824a/)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/kiribalan-shanmugam-24645824a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiribalanshanmugam@gmail.com)
 
-Mail : kiribalanshanmugam@gmail.com
+---
 
-
-Last Edited on: 17/4/2025
+*Building things, breaking things, and learning how to make them better.*
